@@ -32,14 +32,6 @@ I am a software engineer and applied mathematics student focused on the intersec
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunjieAraoXiong&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunjieAraoXiong&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunjieAraoXiong&layout=compact&theme=dracula&hide_border=true" height="360" alt="languages graph"  />
 </div>
 
----
-
-### 📫 Connect with me
-
-* **LinkedIn:** [linkedin.com/in/junjiexiong](https://linkedin.com/in/junjiexiong)
-* **Website:** [JunjieAraoXiong.github.io](https://JunjieAraoXiong.github.io)
-* **X:** [@jaraxiong](https://x.com/jaraxiong)
