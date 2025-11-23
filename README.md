@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-06e0ae33-df5e-44df-9d26-384407b78918.gif" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-06e0ae33-df5e-44df-9d26-384407b78918.gif" width="40" />
 </div>
 
 # Hi there, I'm Junjie! 👋
