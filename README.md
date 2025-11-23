@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" />
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-06e0ae33-df5e-44df-9d26-384407b78918.gif" width="400" />
 </div>
 
 # Hi there, I'm Junjie! 👋
@@ -36,6 +36,12 @@ I am a software engineer and applied mathematics student focused on the intersec
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunjieAraoXiong&layout=compact&theme=dracula&hide_border=true" height="360" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JunjieAraoXiong&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunjieAraoXiong&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
+---
+<div align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+</div>
