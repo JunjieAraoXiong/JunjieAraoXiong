@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/fXQF7S2e5k3oWv6y3x/giphy.gif" width="500" />
 </div>
 
 # Hi there, I'm Junjie! 👋
