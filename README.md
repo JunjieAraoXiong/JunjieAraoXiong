@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" />
+</div>
+
 # Hi there, I'm Junjie! 👋
 
 ### 🎓 CS + Applied Maths @ [UC Berkeley](https://www.berkeley.edu/)
