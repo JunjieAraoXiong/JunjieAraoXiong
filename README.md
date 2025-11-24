@@ -1,12 +1,6 @@
 <div align="center">
 
-# Hi, I'm Junjie ✨
-<pre>ᠠ
-ᠷ
-ᠤ
-ᠬ
-ᠠ
-ᠨ</pre>
+# Hi, I'm Junjie ✨ ᠠᠷᠤᠬᠠᠨ
 
 **CS + Applied Mathematics @ UC Berkeley '28**
 
