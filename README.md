@@ -1,8 +1,13 @@
-<div>
+<div align="center">
+
 # Hi, I'm Junjie (ᠠᠷᠤᠬᠠᠨ)
-**CS + Applied Mathematics @ UC Berkeley '28**
-Sophomore interested in ML systems, quantitative finance, and distributed systems.
+
+CS + Applied Mathematics sophomore @ UC Berkeley interested in ML systems, quantitative finance, and distributed systems.
+
 </div>
+
+---
+
 <table>
 <tr>
 <td valign="top" width="50%">
