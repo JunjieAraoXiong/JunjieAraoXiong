@@ -1,7 +1,6 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-
 ### Currently Exploring
 
 - Building distributed training pipelines for large-scale ML models
@@ -10,7 +9,6 @@
 
 </td>
 <td valign="top" width="50%">
-
 ### Looking For
 
 - Undergraduate research in ML systems or distributed computing
