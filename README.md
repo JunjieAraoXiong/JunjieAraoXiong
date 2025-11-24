@@ -11,26 +11,25 @@ Sophomore interested in ML systems, quantitative finance, and distributed system
 ---
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
-      ### Currently Exploring
+### Currently Exploring
 
-      - Building distributed training pipelines for large-scale ML models  
-      - Developing low-latency market data processing systems  
-      - Implementing consensus algorithms for fault-tolerant systems
+- Building distributed training pipelines for large-scale ML models
+- Developing low-latency market data processing systems
+- Implementing consensus algorithms for fault-tolerant systems
 
-    </td>
+</td>
+<td valign="top" width="50%">
 
-    <td valign="top" width="50%">
+### Looking For
 
-      ### Looking For
+- Undergraduate research in ML systems or distributed computing
+- Summer 2026 internships in SWE, MLE, or Quant
 
-      - Undergraduate research in ML systems or distributed computing  
-      - Summer 2026 internships in SWE, MLE, or Quant
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
