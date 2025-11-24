@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Junjie (ᠠᠷᠤᠬᠠᠨ) ✨ 
+# Hi, I'm Junjie (ᠠᠷᠤᠬᠠᠨ)
 
 **CS + Applied Mathematics @ UC Berkeley '28**
 
@@ -35,7 +35,7 @@ Sophomore interested in ML systems, quantitative finance, and distributed system
 ---
 
 
-### Tech Stack
+### Tech Stack that I am exploring✨ 
 
 <table>
   <tr>
