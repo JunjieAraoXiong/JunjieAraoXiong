@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Junjie ✨ ᠠᠷᠤᠬᠠᠨ
+# Hi, I'm Junjie (ᠠᠷᠤᠬᠠᠨ) ✨ 
 
 **CS + Applied Mathematics @ UC Berkeley '28**
 
@@ -10,18 +10,31 @@ Sophomore interested in ML systems, quantitative finance, and distributed system
 
 ---
 
-### Currently Exploring
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- Building distributed training pipelines for large-scale ML models
-- Developing low-latency market data processing systems
-- Implementing consensus algorithms for fault-tolerant systems
+      ### Currently Exploring
 
-### Looking For
+      - Building distributed training pipelines for large-scale ML models  
+      - Developing low-latency market data processing systems  
+      - Implementing consensus algorithms for fault-tolerant systems
 
-- Undergraduate research in ML systems or distributed computing
-- Summer 2026 internships in SWE, MLE, or Quant
+    </td>
+
+    <td valign="top" width="50%">
+
+      ### Looking For
+
+      - Undergraduate research in ML systems or distributed computing  
+      - Summer 2026 internships in SWE, MLE, or Quant
+
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ### Tech Stack
 
@@ -108,11 +121,11 @@ Sophomore interested in ML systems, quantitative finance, and distributed system
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="assets/langchain.jpeg" width="48" height="48" alt="LangChain" />
+      <img src="assets/llamaindex.jpeg" width="48" height="48" alt="LangChain" />
       <br>LangChain
     </td>
     <td align="center" width="96">
-      <img src="assets/llamaindex.jpeg" width="48" height="48" alt="LlamaIndex" />
+      <img src="assets/langchain.jpeg" width="48" height="48" alt="LlamaIndex" />
       <br>LlamaIndex
     </td>
   </tr>
