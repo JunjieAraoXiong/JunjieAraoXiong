@@ -114,11 +114,11 @@ Sophomore interested in ML systems, quantitative finance, and distributed system
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="48" height="48" alt="LangChain" />
+      <img src="assets/langchain.jpeg" width="48" height="48" alt="LangChain" />
       <br>LangChain
     </td>
     <td align="center" width="96">
-      <img src="https://asset.brandfetch.io/idoENPwB3L/idwqT8ekl0.svg" width="48" height="48" alt="LlamaIndex" />
+      <img src="assets/llamaindex.jpeg" width="48" height="48" alt="LlamaIndex" />
       <br>LlamaIndex
     </td>
   </tr>
