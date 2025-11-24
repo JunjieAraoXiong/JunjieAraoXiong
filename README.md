@@ -93,7 +93,7 @@ Sophomore interested in ML systems, quantitative finance, and distributed system
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=neo4j" width="48" height="48" alt="Neo4j" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" />
       <br>Neo4j
     </td>
     <td align="center" width="96">
@@ -109,11 +109,11 @@ Sophomore interested in ML systems, quantitative finance, and distributed system
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="48" height="48" alt="LangChain" />
+      <img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" width="48" height="48" alt="LangChain" />
       <br>LangChain
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/run-llama/llama_index/main/docs/docs/_static/llama_index_icon.svg" width="48" height="48" alt="LlamaIndex" />
+      <img src="https://asset.brandfetch.io/idoENPwB3L/idwqT8ekl0.svg" width="48" height="48" alt="LlamaIndex" />
       <br>LlamaIndex
     </td>
   </tr>
